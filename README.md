@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I am Nothando Masilela 👋  
 
-<!--
-**thandomas/thandomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Web Developer
+I am a passionate coder who builds responsive, user-friendly websites from scratch.  
+I specialize in HTML, CSS, JavaScript and python to develop modern website designs.  
+I'm currently learning more about frontend and backend frameworks and improving my coding every day.  
+My goal is to become a full-stack developer and build real-world web applications.
 
-Here are some ideas to get you started:
+## Skills🦾
+- HTML5 & CSS3
+- JavaScript
+- Python
+- Responsive Web Design
+- SEO Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I've Learned at FNB App Academy
+- Real-world web development practices
+- Working with Git and GitHub collaboratively
+- Frontend and backend fundamentals (HTML, CSS, JavaScript)
+- Building dynamic websites and apps
+- Intro to Python and backend logic
+- Team communication and agile basics
+
+## 📫 How to reach me:
+- 📧 Email: nothandomasilela@gmail.com
