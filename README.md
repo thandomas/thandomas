@@ -13,7 +13,7 @@ My goal is to become a full-stack developer and build real-world web application
 - Responsive Web Design
 - SEO Basics
 
-## 💼 What I've Learned at FNB App Academy
+## 💼 What I've Learned at FNB App Academy 2025
 - Real-world web development practices
 - Working with Git and GitHub collaboratively
 - Frontend and backend fundamentals (HTML, CSS, JavaScript)
@@ -22,4 +22,5 @@ My goal is to become a full-stack developer and build real-world web application
 - Team communication and agile basics
 
 ## 📫 How to reach me:
-- 📧 Email: nothandomasilela@gmail.com
+- 📧 Email: nothandomasilela927@gmail.com
+- contact:068 282 4480
